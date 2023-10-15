@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    1<!DOCTYPE html>
 <html>
 <head>
     <title>You and Me</title>
@@ -62,6 +62,7 @@
         <p>Nimma abhimani,</p>
         <p>Manjunath</p>
         <p>Likitha Abhimani Balaga.</p>
+        <img src="C:\Users\Manjunath\Desktop\Flower" alt="Beautiful Flower" />
     </main>
 </body>
 </html>
