@@ -51,7 +51,7 @@
         <h2>I created this website just to tell you,</h2>
         <p>You are special to me.</p>
         <ul>
-        <h2>Ishtella baredu nimge ondu kavana bardilla andre hege?</h2>
+            <h2>Ishtella baredu nimge ondu kavana bardilla andre hege?</h2>
             <li>Neene Neene, Nanagella Neene.</li>
             <li>Maathu Neene, Manasella Neene.</li>
             <li>Nanna Edeya Thumba Ninna Preethi Thaane.</li>
