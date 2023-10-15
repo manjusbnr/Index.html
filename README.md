@@ -47,19 +47,21 @@
             <li>Your kindness and compassion are truly inspiring.</li>
             <li>Your smile brightens up even the darkest days.</li>
             <li>The way you see the world has taught me to appreciate the beauty in every moment.</li>
-        <ul>
+        </ul>
         <h2>I created this website just to tell you,</h2>
         <p>You are special to me.</p>
+        <h2>ಇಷ್ಟು ಹೇಳಿದ ಮೇಲೆ, ನಿಮಗೋಸ್ಕರ ಹಾಡು ಹಾಡಿಲ್ಲ ಅಂದ್ರೆ ಹೇಗೆ?</h2>
         <ul>
-            <h2>Ishtella baredu nimge ondu kavana bardilla andre hege?</h2>
-            <li>Neene Neene, Nanagella Neene.</li>
-            <li>Maathu Neene, Manasella Neene.</li>
-            <li>Nanna Edeya Thumba Ninna Preethi Thaane.</li>
-            <li>Neene Irada Mele, Naa Hege Irali Nee Hele Jaane.</li>
-        <u1> 
-        <h2>Idanna Nodidmele Pakka Phone Madi Baithira</h2>
-        <p>Neev baiyodu keloke thumba cute aagi iruthe. Baiskoloke ready agbidthini.</p>
-        <u1>
+            <li>ನೀನೇ ನೀನೇ, ನನಗೆಲ್ಲಾ ನೀನೇ.</li>
+            <li>ಮಾತು ನೀನೇ, ಮನಸ್ಸೇಲ್ಲಾ ನೀನೇ.</li>
+            <li>ನನ್ನ ಹೃದಯ ತುಂಬ ನಿನ್ನ ಪ್ರೀತಿಯಾಗಿದೆ.</li>
+            <li>ನೀನೇ ಇರದ ಮೇಲೆ, ನಾನು ಹೇಗೆ ಇರಬೇಕೆಂದು ನೀ ಹೇಳೆ ಜಾಣೆ.</li>
+        </ul>
+        <h2>ಇದನ್ನ ನೋಡಿದ್ಮೇಲೆ ಪಕ್ಕ ಫೋನ್ ಮಾಡಿ ಬೈತೀರ</h2>
+        <p>ನೀವು ಬೈಯೋದು ಕೇಳೋಕೆ ತುಂಬ cute ಆಗಿ ಇರುತ್ತೆ. ಬೈಸ್ಕೊಳೋಕೆ ರೆಡಿ ಆಗ್ಬಿಡ್ತಿನಿ.</p>
+        <p>Nimma abhimani,</p>
+        <p>Manjunath</p>
+        <p>Likitha Abhimani Balaga.</p>
     </main>
 </body>
 </html>
