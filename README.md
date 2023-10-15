@@ -62,7 +62,7 @@
         <p>Nimma abhimani,</p>
         <p>Manjunath</p>
         <p>Likitha Abhimani Balaga.</p>
-        <img src="C:\Users\Manjunath\Desktop\Flower" alt="Beautiful Flower" />
+        <img src="C:\Users\Manjunath\Desktop\Flower\Rose.JPEG" alt="Beautiful Flower" />
     </main>
 </body>
 </html>
